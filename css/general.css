@@ -1,0 +1,9 @@
+body { background-color:#0d1117; color:#e8edf2; font-family:system-ui,-apple-system,"Segoe UI",sans-serif; line-height:1.65; }
+a { color:#ff8585; }
+a:hover { color:#ffffff; }
+.text-secondary,.texto-secundario { color:#aab5c1!important; }
+.btn-danger { background-color:#d64b4b; border-color:#d64b4b; }
+.btn-danger:hover { background-color:#9d3030; border-color:#9d3030; }
+.badge.text-bg-danger { background-color:#d64b4b!important; }
+.alert-dark { background-color:#202a35; border:1px solid #303b48; color:#e8edf2; }
+.table-dark { --bs-table-bg:#161d26; --bs-table-border-color:#303b48; }
