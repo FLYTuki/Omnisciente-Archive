@@ -1,0 +1,24 @@
+.encabezado {
+    background-color: #111820;
+    border-bottom: 1px solid #303b48;
+}
+
+.marca {
+    color: #ffffff !important;
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+}
+
+.marca-icono {
+    display: inline-grid;
+    place-items: center;
+    width: 34px;
+    height: 34px;
+    margin-right: 9px;
+    border-radius: 8px;
+    background-color: #d64b4b;
+    color: #ffffff;
+    font-weight: 900;
+}

@@ -1,0 +1,17 @@
+footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    background-color: #111820;
+    border-top: 1px solid #303b48;
+    color: #aab5c1;
+}
+
+footer a {
+    color: #ff8585;
+    text-decoration: none;
+}
+
+.nota-pequena {
+    color: #aab5c1;
+    font-size: 0.9rem;
+}
