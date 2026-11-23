@@ -1,3 +1,0 @@
-.form-control,.form-select { border-color:#3b4653; background-color:#0f151c; color:#e8edf2; }
-.form-control:focus,.form-select:focus { border-color:#d64b4b; background-color:#0f151c; color:#ffffff; box-shadow:0 0 0 .2rem #d64b4b33; }
-.form-control::placeholder { color:#84909d; }
